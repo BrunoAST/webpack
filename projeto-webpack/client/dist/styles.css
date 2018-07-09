@@ -1,6 +1,6 @@
 /*!
- * Bootstrap v3.3.6 (http://getbootstrap.com)
- * Copyright 2011-2015 Twitter, Inc.
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
@@ -263,8 +263,8 @@ th {
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url(f4769f9bdb7466be65088239c12046d1.eot);
+  src: url(f4769f9bdb7466be65088239c12046d1.eot?#iefix) format('embedded-opentype'), url(448c34a56d699c29117adc64c43affeb.woff2) format('woff2'), url(fa2772327f55d8198301fdb8bcfc8158.woff) format('woff'), url(e18bbf611f2a2e43afc071aa2f4e1512.ttf) format('truetype'), url(89889688147bd7575d6327160d64e760.svg#glyphicons_halflingsregular) format('svg');
 }
 .glyphicon {
   position: relative;
@@ -279,14 +279,14 @@ th {
   -moz-osx-font-smoothing: grayscale;
 }
 .glyphicon-asterisk:before {
-  content: "\002a";
+  content: "*";
 }
 .glyphicon-plus:before {
-  content: "\002b";
+  content: "+";
 }
 .glyphicon-euro:before,
 .glyphicon-eur:before {
-  content: "\20ac";
+  content: "\20AC";
 }
 .glyphicon-minus:before {
   content: "\2212";
@@ -298,772 +298,772 @@ th {
   content: "\2709";
 }
 .glyphicon-pencil:before {
-  content: "\270f";
+  content: "\270F";
 }
 .glyphicon-glass:before {
-  content: "\e001";
+  content: "\E001";
 }
 .glyphicon-music:before {
-  content: "\e002";
+  content: "\E002";
 }
 .glyphicon-search:before {
-  content: "\e003";
+  content: "\E003";
 }
 .glyphicon-heart:before {
-  content: "\e005";
+  content: "\E005";
 }
 .glyphicon-star:before {
-  content: "\e006";
+  content: "\E006";
 }
 .glyphicon-star-empty:before {
-  content: "\e007";
+  content: "\E007";
 }
 .glyphicon-user:before {
-  content: "\e008";
+  content: "\E008";
 }
 .glyphicon-film:before {
-  content: "\e009";
+  content: "\E009";
 }
 .glyphicon-th-large:before {
-  content: "\e010";
+  content: "\E010";
 }
 .glyphicon-th:before {
-  content: "\e011";
+  content: "\E011";
 }
 .glyphicon-th-list:before {
-  content: "\e012";
+  content: "\E012";
 }
 .glyphicon-ok:before {
-  content: "\e013";
+  content: "\E013";
 }
 .glyphicon-remove:before {
-  content: "\e014";
+  content: "\E014";
 }
 .glyphicon-zoom-in:before {
-  content: "\e015";
+  content: "\E015";
 }
 .glyphicon-zoom-out:before {
-  content: "\e016";
+  content: "\E016";
 }
 .glyphicon-off:before {
-  content: "\e017";
+  content: "\E017";
 }
 .glyphicon-signal:before {
-  content: "\e018";
+  content: "\E018";
 }
 .glyphicon-cog:before {
-  content: "\e019";
+  content: "\E019";
 }
 .glyphicon-trash:before {
-  content: "\e020";
+  content: "\E020";
 }
 .glyphicon-home:before {
-  content: "\e021";
+  content: "\E021";
 }
 .glyphicon-file:before {
-  content: "\e022";
+  content: "\E022";
 }
 .glyphicon-time:before {
-  content: "\e023";
+  content: "\E023";
 }
 .glyphicon-road:before {
-  content: "\e024";
+  content: "\E024";
 }
 .glyphicon-download-alt:before {
-  content: "\e025";
+  content: "\E025";
 }
 .glyphicon-download:before {
-  content: "\e026";
+  content: "\E026";
 }
 .glyphicon-upload:before {
-  content: "\e027";
+  content: "\E027";
 }
 .glyphicon-inbox:before {
-  content: "\e028";
+  content: "\E028";
 }
 .glyphicon-play-circle:before {
-  content: "\e029";
+  content: "\E029";
 }
 .glyphicon-repeat:before {
-  content: "\e030";
+  content: "\E030";
 }
 .glyphicon-refresh:before {
-  content: "\e031";
+  content: "\E031";
 }
 .glyphicon-list-alt:before {
-  content: "\e032";
+  content: "\E032";
 }
 .glyphicon-lock:before {
-  content: "\e033";
+  content: "\E033";
 }
 .glyphicon-flag:before {
-  content: "\e034";
+  content: "\E034";
 }
 .glyphicon-headphones:before {
-  content: "\e035";
+  content: "\E035";
 }
 .glyphicon-volume-off:before {
-  content: "\e036";
+  content: "\E036";
 }
 .glyphicon-volume-down:before {
-  content: "\e037";
+  content: "\E037";
 }
 .glyphicon-volume-up:before {
-  content: "\e038";
+  content: "\E038";
 }
 .glyphicon-qrcode:before {
-  content: "\e039";
+  content: "\E039";
 }
 .glyphicon-barcode:before {
-  content: "\e040";
+  content: "\E040";
 }
 .glyphicon-tag:before {
-  content: "\e041";
+  content: "\E041";
 }
 .glyphicon-tags:before {
-  content: "\e042";
+  content: "\E042";
 }
 .glyphicon-book:before {
-  content: "\e043";
+  content: "\E043";
 }
 .glyphicon-bookmark:before {
-  content: "\e044";
+  content: "\E044";
 }
 .glyphicon-print:before {
-  content: "\e045";
+  content: "\E045";
 }
 .glyphicon-camera:before {
-  content: "\e046";
+  content: "\E046";
 }
 .glyphicon-font:before {
-  content: "\e047";
+  content: "\E047";
 }
 .glyphicon-bold:before {
-  content: "\e048";
+  content: "\E048";
 }
 .glyphicon-italic:before {
-  content: "\e049";
+  content: "\E049";
 }
 .glyphicon-text-height:before {
-  content: "\e050";
+  content: "\E050";
 }
 .glyphicon-text-width:before {
-  content: "\e051";
+  content: "\E051";
 }
 .glyphicon-align-left:before {
-  content: "\e052";
+  content: "\E052";
 }
 .glyphicon-align-center:before {
-  content: "\e053";
+  content: "\E053";
 }
 .glyphicon-align-right:before {
-  content: "\e054";
+  content: "\E054";
 }
 .glyphicon-align-justify:before {
-  content: "\e055";
+  content: "\E055";
 }
 .glyphicon-list:before {
-  content: "\e056";
+  content: "\E056";
 }
 .glyphicon-indent-left:before {
-  content: "\e057";
+  content: "\E057";
 }
 .glyphicon-indent-right:before {
-  content: "\e058";
+  content: "\E058";
 }
 .glyphicon-facetime-video:before {
-  content: "\e059";
+  content: "\E059";
 }
 .glyphicon-picture:before {
-  content: "\e060";
+  content: "\E060";
 }
 .glyphicon-map-marker:before {
-  content: "\e062";
+  content: "\E062";
 }
 .glyphicon-adjust:before {
-  content: "\e063";
+  content: "\E063";
 }
 .glyphicon-tint:before {
-  content: "\e064";
+  content: "\E064";
 }
 .glyphicon-edit:before {
-  content: "\e065";
+  content: "\E065";
 }
 .glyphicon-share:before {
-  content: "\e066";
+  content: "\E066";
 }
 .glyphicon-check:before {
-  content: "\e067";
+  content: "\E067";
 }
 .glyphicon-move:before {
-  content: "\e068";
+  content: "\E068";
 }
 .glyphicon-step-backward:before {
-  content: "\e069";
+  content: "\E069";
 }
 .glyphicon-fast-backward:before {
-  content: "\e070";
+  content: "\E070";
 }
 .glyphicon-backward:before {
-  content: "\e071";
+  content: "\E071";
 }
 .glyphicon-play:before {
-  content: "\e072";
+  content: "\E072";
 }
 .glyphicon-pause:before {
-  content: "\e073";
+  content: "\E073";
 }
 .glyphicon-stop:before {
-  content: "\e074";
+  content: "\E074";
 }
 .glyphicon-forward:before {
-  content: "\e075";
+  content: "\E075";
 }
 .glyphicon-fast-forward:before {
-  content: "\e076";
+  content: "\E076";
 }
 .glyphicon-step-forward:before {
-  content: "\e077";
+  content: "\E077";
 }
 .glyphicon-eject:before {
-  content: "\e078";
+  content: "\E078";
 }
 .glyphicon-chevron-left:before {
-  content: "\e079";
+  content: "\E079";
 }
 .glyphicon-chevron-right:before {
-  content: "\e080";
+  content: "\E080";
 }
 .glyphicon-plus-sign:before {
-  content: "\e081";
+  content: "\E081";
 }
 .glyphicon-minus-sign:before {
-  content: "\e082";
+  content: "\E082";
 }
 .glyphicon-remove-sign:before {
-  content: "\e083";
+  content: "\E083";
 }
 .glyphicon-ok-sign:before {
-  content: "\e084";
+  content: "\E084";
 }
 .glyphicon-question-sign:before {
-  content: "\e085";
+  content: "\E085";
 }
 .glyphicon-info-sign:before {
-  content: "\e086";
+  content: "\E086";
 }
 .glyphicon-screenshot:before {
-  content: "\e087";
+  content: "\E087";
 }
 .glyphicon-remove-circle:before {
-  content: "\e088";
+  content: "\E088";
 }
 .glyphicon-ok-circle:before {
-  content: "\e089";
+  content: "\E089";
 }
 .glyphicon-ban-circle:before {
-  content: "\e090";
+  content: "\E090";
 }
 .glyphicon-arrow-left:before {
-  content: "\e091";
+  content: "\E091";
 }
 .glyphicon-arrow-right:before {
-  content: "\e092";
+  content: "\E092";
 }
 .glyphicon-arrow-up:before {
-  content: "\e093";
+  content: "\E093";
 }
 .glyphicon-arrow-down:before {
-  content: "\e094";
+  content: "\E094";
 }
 .glyphicon-share-alt:before {
-  content: "\e095";
+  content: "\E095";
 }
 .glyphicon-resize-full:before {
-  content: "\e096";
+  content: "\E096";
 }
 .glyphicon-resize-small:before {
-  content: "\e097";
+  content: "\E097";
 }
 .glyphicon-exclamation-sign:before {
-  content: "\e101";
+  content: "\E101";
 }
 .glyphicon-gift:before {
-  content: "\e102";
+  content: "\E102";
 }
 .glyphicon-leaf:before {
-  content: "\e103";
+  content: "\E103";
 }
 .glyphicon-fire:before {
-  content: "\e104";
+  content: "\E104";
 }
 .glyphicon-eye-open:before {
-  content: "\e105";
+  content: "\E105";
 }
 .glyphicon-eye-close:before {
-  content: "\e106";
+  content: "\E106";
 }
 .glyphicon-warning-sign:before {
-  content: "\e107";
+  content: "\E107";
 }
 .glyphicon-plane:before {
-  content: "\e108";
+  content: "\E108";
 }
 .glyphicon-calendar:before {
-  content: "\e109";
+  content: "\E109";
 }
 .glyphicon-random:before {
-  content: "\e110";
+  content: "\E110";
 }
 .glyphicon-comment:before {
-  content: "\e111";
+  content: "\E111";
 }
 .glyphicon-magnet:before {
-  content: "\e112";
+  content: "\E112";
 }
 .glyphicon-chevron-up:before {
-  content: "\e113";
+  content: "\E113";
 }
 .glyphicon-chevron-down:before {
-  content: "\e114";
+  content: "\E114";
 }
 .glyphicon-retweet:before {
-  content: "\e115";
+  content: "\E115";
 }
 .glyphicon-shopping-cart:before {
-  content: "\e116";
+  content: "\E116";
 }
 .glyphicon-folder-close:before {
-  content: "\e117";
+  content: "\E117";
 }
 .glyphicon-folder-open:before {
-  content: "\e118";
+  content: "\E118";
 }
 .glyphicon-resize-vertical:before {
-  content: "\e119";
+  content: "\E119";
 }
 .glyphicon-resize-horizontal:before {
-  content: "\e120";
+  content: "\E120";
 }
 .glyphicon-hdd:before {
-  content: "\e121";
+  content: "\E121";
 }
 .glyphicon-bullhorn:before {
-  content: "\e122";
+  content: "\E122";
 }
 .glyphicon-bell:before {
-  content: "\e123";
+  content: "\E123";
 }
 .glyphicon-certificate:before {
-  content: "\e124";
+  content: "\E124";
 }
 .glyphicon-thumbs-up:before {
-  content: "\e125";
+  content: "\E125";
 }
 .glyphicon-thumbs-down:before {
-  content: "\e126";
+  content: "\E126";
 }
 .glyphicon-hand-right:before {
-  content: "\e127";
+  content: "\E127";
 }
 .glyphicon-hand-left:before {
-  content: "\e128";
+  content: "\E128";
 }
 .glyphicon-hand-up:before {
-  content: "\e129";
+  content: "\E129";
 }
 .glyphicon-hand-down:before {
-  content: "\e130";
+  content: "\E130";
 }
 .glyphicon-circle-arrow-right:before {
-  content: "\e131";
+  content: "\E131";
 }
 .glyphicon-circle-arrow-left:before {
-  content: "\e132";
+  content: "\E132";
 }
 .glyphicon-circle-arrow-up:before {
-  content: "\e133";
+  content: "\E133";
 }
 .glyphicon-circle-arrow-down:before {
-  content: "\e134";
+  content: "\E134";
 }
 .glyphicon-globe:before {
-  content: "\e135";
+  content: "\E135";
 }
 .glyphicon-wrench:before {
-  content: "\e136";
+  content: "\E136";
 }
 .glyphicon-tasks:before {
-  content: "\e137";
+  content: "\E137";
 }
 .glyphicon-filter:before {
-  content: "\e138";
+  content: "\E138";
 }
 .glyphicon-briefcase:before {
-  content: "\e139";
+  content: "\E139";
 }
 .glyphicon-fullscreen:before {
-  content: "\e140";
+  content: "\E140";
 }
 .glyphicon-dashboard:before {
-  content: "\e141";
+  content: "\E141";
 }
 .glyphicon-paperclip:before {
-  content: "\e142";
+  content: "\E142";
 }
 .glyphicon-heart-empty:before {
-  content: "\e143";
+  content: "\E143";
 }
 .glyphicon-link:before {
-  content: "\e144";
+  content: "\E144";
 }
 .glyphicon-phone:before {
-  content: "\e145";
+  content: "\E145";
 }
 .glyphicon-pushpin:before {
-  content: "\e146";
+  content: "\E146";
 }
 .glyphicon-usd:before {
-  content: "\e148";
+  content: "\E148";
 }
 .glyphicon-gbp:before {
-  content: "\e149";
+  content: "\E149";
 }
 .glyphicon-sort:before {
-  content: "\e150";
+  content: "\E150";
 }
 .glyphicon-sort-by-alphabet:before {
-  content: "\e151";
+  content: "\E151";
 }
 .glyphicon-sort-by-alphabet-alt:before {
-  content: "\e152";
+  content: "\E152";
 }
 .glyphicon-sort-by-order:before {
-  content: "\e153";
+  content: "\E153";
 }
 .glyphicon-sort-by-order-alt:before {
-  content: "\e154";
+  content: "\E154";
 }
 .glyphicon-sort-by-attributes:before {
-  content: "\e155";
+  content: "\E155";
 }
 .glyphicon-sort-by-attributes-alt:before {
-  content: "\e156";
+  content: "\E156";
 }
 .glyphicon-unchecked:before {
-  content: "\e157";
+  content: "\E157";
 }
 .glyphicon-expand:before {
-  content: "\e158";
+  content: "\E158";
 }
 .glyphicon-collapse-down:before {
-  content: "\e159";
+  content: "\E159";
 }
 .glyphicon-collapse-up:before {
-  content: "\e160";
+  content: "\E160";
 }
 .glyphicon-log-in:before {
-  content: "\e161";
+  content: "\E161";
 }
 .glyphicon-flash:before {
-  content: "\e162";
+  content: "\E162";
 }
 .glyphicon-log-out:before {
-  content: "\e163";
+  content: "\E163";
 }
 .glyphicon-new-window:before {
-  content: "\e164";
+  content: "\E164";
 }
 .glyphicon-record:before {
-  content: "\e165";
+  content: "\E165";
 }
 .glyphicon-save:before {
-  content: "\e166";
+  content: "\E166";
 }
 .glyphicon-open:before {
-  content: "\e167";
+  content: "\E167";
 }
 .glyphicon-saved:before {
-  content: "\e168";
+  content: "\E168";
 }
 .glyphicon-import:before {
-  content: "\e169";
+  content: "\E169";
 }
 .glyphicon-export:before {
-  content: "\e170";
+  content: "\E170";
 }
 .glyphicon-send:before {
-  content: "\e171";
+  content: "\E171";
 }
 .glyphicon-floppy-disk:before {
-  content: "\e172";
+  content: "\E172";
 }
 .glyphicon-floppy-saved:before {
-  content: "\e173";
+  content: "\E173";
 }
 .glyphicon-floppy-remove:before {
-  content: "\e174";
+  content: "\E174";
 }
 .glyphicon-floppy-save:before {
-  content: "\e175";
+  content: "\E175";
 }
 .glyphicon-floppy-open:before {
-  content: "\e176";
+  content: "\E176";
 }
 .glyphicon-credit-card:before {
-  content: "\e177";
+  content: "\E177";
 }
 .glyphicon-transfer:before {
-  content: "\e178";
+  content: "\E178";
 }
 .glyphicon-cutlery:before {
-  content: "\e179";
+  content: "\E179";
 }
 .glyphicon-header:before {
-  content: "\e180";
+  content: "\E180";
 }
 .glyphicon-compressed:before {
-  content: "\e181";
+  content: "\E181";
 }
 .glyphicon-earphone:before {
-  content: "\e182";
+  content: "\E182";
 }
 .glyphicon-phone-alt:before {
-  content: "\e183";
+  content: "\E183";
 }
 .glyphicon-tower:before {
-  content: "\e184";
+  content: "\E184";
 }
 .glyphicon-stats:before {
-  content: "\e185";
+  content: "\E185";
 }
 .glyphicon-sd-video:before {
-  content: "\e186";
+  content: "\E186";
 }
 .glyphicon-hd-video:before {
-  content: "\e187";
+  content: "\E187";
 }
 .glyphicon-subtitles:before {
-  content: "\e188";
+  content: "\E188";
 }
 .glyphicon-sound-stereo:before {
-  content: "\e189";
+  content: "\E189";
 }
 .glyphicon-sound-dolby:before {
-  content: "\e190";
+  content: "\E190";
 }
 .glyphicon-sound-5-1:before {
-  content: "\e191";
+  content: "\E191";
 }
 .glyphicon-sound-6-1:before {
-  content: "\e192";
+  content: "\E192";
 }
 .glyphicon-sound-7-1:before {
-  content: "\e193";
+  content: "\E193";
 }
 .glyphicon-copyright-mark:before {
-  content: "\e194";
+  content: "\E194";
 }
 .glyphicon-registration-mark:before {
-  content: "\e195";
+  content: "\E195";
 }
 .glyphicon-cloud-download:before {
-  content: "\e197";
+  content: "\E197";
 }
 .glyphicon-cloud-upload:before {
-  content: "\e198";
+  content: "\E198";
 }
 .glyphicon-tree-conifer:before {
-  content: "\e199";
+  content: "\E199";
 }
 .glyphicon-tree-deciduous:before {
-  content: "\e200";
+  content: "\E200";
 }
 .glyphicon-cd:before {
-  content: "\e201";
+  content: "\E201";
 }
 .glyphicon-save-file:before {
-  content: "\e202";
+  content: "\E202";
 }
 .glyphicon-open-file:before {
-  content: "\e203";
+  content: "\E203";
 }
 .glyphicon-level-up:before {
-  content: "\e204";
+  content: "\E204";
 }
 .glyphicon-copy:before {
-  content: "\e205";
+  content: "\E205";
 }
 .glyphicon-paste:before {
-  content: "\e206";
+  content: "\E206";
 }
 .glyphicon-alert:before {
-  content: "\e209";
+  content: "\E209";
 }
 .glyphicon-equalizer:before {
-  content: "\e210";
+  content: "\E210";
 }
 .glyphicon-king:before {
-  content: "\e211";
+  content: "\E211";
 }
 .glyphicon-queen:before {
-  content: "\e212";
+  content: "\E212";
 }
 .glyphicon-pawn:before {
-  content: "\e213";
+  content: "\E213";
 }
 .glyphicon-bishop:before {
-  content: "\e214";
+  content: "\E214";
 }
 .glyphicon-knight:before {
-  content: "\e215";
+  content: "\E215";
 }
 .glyphicon-baby-formula:before {
-  content: "\e216";
+  content: "\E216";
 }
 .glyphicon-tent:before {
-  content: "\26fa";
+  content: "\26FA";
 }
 .glyphicon-blackboard:before {
-  content: "\e218";
+  content: "\E218";
 }
 .glyphicon-bed:before {
-  content: "\e219";
+  content: "\E219";
 }
 .glyphicon-apple:before {
-  content: "\f8ff";
+  content: "\F8FF";
 }
 .glyphicon-erase:before {
-  content: "\e221";
+  content: "\E221";
 }
 .glyphicon-hourglass:before {
-  content: "\231b";
+  content: "\231B";
 }
 .glyphicon-lamp:before {
-  content: "\e223";
+  content: "\E223";
 }
 .glyphicon-duplicate:before {
-  content: "\e224";
+  content: "\E224";
 }
 .glyphicon-piggy-bank:before {
-  content: "\e225";
+  content: "\E225";
 }
 .glyphicon-scissors:before {
-  content: "\e226";
+  content: "\E226";
 }
 .glyphicon-bitcoin:before {
-  content: "\e227";
+  content: "\E227";
 }
 .glyphicon-btc:before {
-  content: "\e227";
+  content: "\E227";
 }
 .glyphicon-xbt:before {
-  content: "\e227";
+  content: "\E227";
 }
 .glyphicon-yen:before {
-  content: "\00a5";
+  content: "\A5";
 }
 .glyphicon-jpy:before {
-  content: "\00a5";
+  content: "\A5";
 }
 .glyphicon-ruble:before {
-  content: "\20bd";
+  content: "\20BD";
 }
 .glyphicon-rub:before {
-  content: "\20bd";
+  content: "\20BD";
 }
 .glyphicon-scale:before {
-  content: "\e230";
+  content: "\E230";
 }
 .glyphicon-ice-lolly:before {
-  content: "\e231";
+  content: "\E231";
 }
 .glyphicon-ice-lolly-tasted:before {
-  content: "\e232";
+  content: "\E232";
 }
 .glyphicon-education:before {
-  content: "\e233";
+  content: "\E233";
 }
 .glyphicon-option-horizontal:before {
-  content: "\e234";
+  content: "\E234";
 }
 .glyphicon-option-vertical:before {
-  content: "\e235";
+  content: "\E235";
 }
 .glyphicon-menu-hamburger:before {
-  content: "\e236";
+  content: "\E236";
 }
 .glyphicon-modal-window:before {
-  content: "\e237";
+  content: "\E237";
 }
 .glyphicon-oil:before {
-  content: "\e238";
+  content: "\E238";
 }
 .glyphicon-grain:before {
-  content: "\e239";
+  content: "\E239";
 }
 .glyphicon-sunglasses:before {
-  content: "\e240";
+  content: "\E240";
 }
 .glyphicon-text-size:before {
-  content: "\e241";
+  content: "\E241";
 }
 .glyphicon-text-color:before {
-  content: "\e242";
+  content: "\E242";
 }
 .glyphicon-text-background:before {
-  content: "\e243";
+  content: "\E243";
 }
 .glyphicon-object-align-top:before {
-  content: "\e244";
+  content: "\E244";
 }
 .glyphicon-object-align-bottom:before {
-  content: "\e245";
+  content: "\E245";
 }
 .glyphicon-object-align-horizontal:before {
-  content: "\e246";
+  content: "\E246";
 }
 .glyphicon-object-align-left:before {
-  content: "\e247";
+  content: "\E247";
 }
 .glyphicon-object-align-vertical:before {
-  content: "\e248";
+  content: "\E248";
 }
 .glyphicon-object-align-right:before {
-  content: "\e249";
+  content: "\E249";
 }
 .glyphicon-triangle-right:before {
-  content: "\e250";
+  content: "\E250";
 }
 .glyphicon-triangle-left:before {
-  content: "\e251";
+  content: "\E251";
 }
 .glyphicon-triangle-bottom:before {
-  content: "\e252";
+  content: "\E252";
 }
 .glyphicon-triangle-top:before {
-  content: "\e253";
+  content: "\E253";
 }
 .glyphicon-console:before {
-  content: "\e254";
+  content: "\E254";
 }
 .glyphicon-superscript:before {
-  content: "\e255";
+  content: "\E255";
 }
 .glyphicon-subscript:before {
-  content: "\e256";
+  content: "\E256";
 }
 .glyphicon-menu-left:before {
-  content: "\e257";
+  content: "\E257";
 }
 .glyphicon-menu-right:before {
-  content: "\e258";
+  content: "\E258";
 }
 .glyphicon-menu-down:before {
-  content: "\e259";
+  content: "\E259";
 }
 .glyphicon-menu-up:before {
-  content: "\e260";
+  content: "\E260";
 }
 * {
   -webkit-box-sizing: border-box;
@@ -1106,7 +1106,6 @@ a:focus {
   text-decoration: underline;
 }
 a:focus {
-  outline: thin dotted;
   outline: 5px auto -webkit-focus-ring-color;
   outline-offset: -2px;
 }
@@ -1497,7 +1496,7 @@ blockquote .small {
 blockquote footer:before,
 blockquote small:before,
 blockquote .small:before {
-  content: '\2014 \00A0';
+  content: '\2014   \A0';
 }
 .blockquote-reverse,
 blockquote.pull-right {
@@ -1521,7 +1520,7 @@ blockquote.pull-right footer:after,
 blockquote.pull-right small:after,
 .blockquote-reverse .small:after,
 blockquote.pull-right .small:after {
-  content: '\00A0 \2014';
+  content: '\A0   \2014';
 }
 address {
   margin-bottom: 20px;
@@ -2537,7 +2536,6 @@ select[size] {
 input[type="file"]:focus,
 input[type="radio"]:focus,
 input[type="checkbox"]:focus {
-  outline: thin dotted;
   outline: 5px auto -webkit-focus-ring-color;
   outline-offset: -2px;
 }
@@ -3029,7 +3027,6 @@ select[multiple].input-lg {
 .btn.focus,
 .btn:active.focus,
 .btn.active.focus {
-  outline: thin dotted;
   outline: 5px auto -webkit-focus-ring-color;
   outline-offset: -2px;
 }
@@ -4706,7 +4703,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .breadcrumb > li + li:before {
   padding: 0 5px;
   color: #ccc;
-  content: "/\00a0";
+  content: "/\A0";
 }
 .breadcrumb > .active {
   color: #777;
@@ -6388,7 +6385,7 @@ button.close {
   content: '\2039';
 }
 .carousel-control .icon-next:before {
-  content: '\203a';
+  content: '\203A';
 }
 .carousel-indicators {
   position: absolute;
@@ -6757,4 +6754,592 @@ button.close {
     display: none !important;
   }
 }
-/*# sourceMappingURL=bootstrap.css.map */
+/*!
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+.btn-default,
+.btn-primary,
+.btn-success,
+.btn-info,
+.btn-warning,
+.btn-danger {
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, .2);
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);
+}
+.btn-default:active,
+.btn-primary:active,
+.btn-success:active,
+.btn-info:active,
+.btn-warning:active,
+.btn-danger:active,
+.btn-default.active,
+.btn-primary.active,
+.btn-success.active,
+.btn-info.active,
+.btn-warning.active,
+.btn-danger.active {
+  -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+          box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+}
+.btn-default.disabled,
+.btn-primary.disabled,
+.btn-success.disabled,
+.btn-info.disabled,
+.btn-warning.disabled,
+.btn-danger.disabled,
+.btn-default[disabled],
+.btn-primary[disabled],
+.btn-success[disabled],
+.btn-info[disabled],
+.btn-warning[disabled],
+.btn-danger[disabled],
+fieldset[disabled] .btn-default,
+fieldset[disabled] .btn-primary,
+fieldset[disabled] .btn-success,
+fieldset[disabled] .btn-info,
+fieldset[disabled] .btn-warning,
+fieldset[disabled] .btn-danger {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+.btn-default .badge,
+.btn-primary .badge,
+.btn-success .badge,
+.btn-info .badge,
+.btn-warning .badge,
+.btn-danger .badge {
+  text-shadow: none;
+}
+.btn:active,
+.btn.active {
+  background-image: none;
+}
+.btn-default {
+  text-shadow: 0 1px 0 #fff;
+  background-image: -webkit-linear-gradient(top, #fff 0%, #e0e0e0 100%);
+  background-image:      -o-linear-gradient(top, #fff 0%, #e0e0e0 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#e0e0e0));
+  background-image:         linear-gradient(to bottom, #fff 0%, #e0e0e0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe0e0e0', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+  border-color: #dbdbdb;
+  border-color: #ccc;
+}
+.btn-default:hover,
+.btn-default:focus {
+  background-color: #e0e0e0;
+  background-position: 0 -15px;
+}
+.btn-default:active,
+.btn-default.active {
+  background-color: #e0e0e0;
+  border-color: #dbdbdb;
+}
+.btn-default.disabled,
+.btn-default[disabled],
+fieldset[disabled] .btn-default,
+.btn-default.disabled:hover,
+.btn-default[disabled]:hover,
+fieldset[disabled] .btn-default:hover,
+.btn-default.disabled:focus,
+.btn-default[disabled]:focus,
+fieldset[disabled] .btn-default:focus,
+.btn-default.disabled.focus,
+.btn-default[disabled].focus,
+fieldset[disabled] .btn-default.focus,
+.btn-default.disabled:active,
+.btn-default[disabled]:active,
+fieldset[disabled] .btn-default:active,
+.btn-default.disabled.active,
+.btn-default[disabled].active,
+fieldset[disabled] .btn-default.active {
+  background-color: #e0e0e0;
+  background-image: none;
+}
+.btn-primary {
+  background-image: -webkit-linear-gradient(top, #337ab7 0%, #265a88 100%);
+  background-image:      -o-linear-gradient(top, #337ab7 0%, #265a88 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#265a88));
+  background-image:         linear-gradient(to bottom, #337ab7 0%, #265a88 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff265a88', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+  border-color: #245580;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #265a88;
+  background-position: 0 -15px;
+}
+.btn-primary:active,
+.btn-primary.active {
+  background-color: #265a88;
+  border-color: #245580;
+}
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled.focus,
+.btn-primary[disabled].focus,
+fieldset[disabled] .btn-primary.focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+  background-color: #265a88;
+  background-image: none;
+}
+.btn-success {
+  background-image: -webkit-linear-gradient(top, #5cb85c 0%, #419641 100%);
+  background-image:      -o-linear-gradient(top, #5cb85c 0%, #419641 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#5cb85c), to(#419641));
+  background-image:         linear-gradient(to bottom, #5cb85c 0%, #419641 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5cb85c', endColorstr='#ff419641', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+  border-color: #3e8f3e;
+}
+.btn-success:hover,
+.btn-success:focus {
+  background-color: #419641;
+  background-position: 0 -15px;
+}
+.btn-success:active,
+.btn-success.active {
+  background-color: #419641;
+  border-color: #3e8f3e;
+}
+.btn-success.disabled,
+.btn-success[disabled],
+fieldset[disabled] .btn-success,
+.btn-success.disabled:hover,
+.btn-success[disabled]:hover,
+fieldset[disabled] .btn-success:hover,
+.btn-success.disabled:focus,
+.btn-success[disabled]:focus,
+fieldset[disabled] .btn-success:focus,
+.btn-success.disabled.focus,
+.btn-success[disabled].focus,
+fieldset[disabled] .btn-success.focus,
+.btn-success.disabled:active,
+.btn-success[disabled]:active,
+fieldset[disabled] .btn-success:active,
+.btn-success.disabled.active,
+.btn-success[disabled].active,
+fieldset[disabled] .btn-success.active {
+  background-color: #419641;
+  background-image: none;
+}
+.btn-info {
+  background-image: -webkit-linear-gradient(top, #5bc0de 0%, #2aabd2 100%);
+  background-image:      -o-linear-gradient(top, #5bc0de 0%, #2aabd2 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#5bc0de), to(#2aabd2));
+  background-image:         linear-gradient(to bottom, #5bc0de 0%, #2aabd2 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff2aabd2', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+  border-color: #28a4c9;
+}
+.btn-info:hover,
+.btn-info:focus {
+  background-color: #2aabd2;
+  background-position: 0 -15px;
+}
+.btn-info:active,
+.btn-info.active {
+  background-color: #2aabd2;
+  border-color: #28a4c9;
+}
+.btn-info.disabled,
+.btn-info[disabled],
+fieldset[disabled] .btn-info,
+.btn-info.disabled:hover,
+.btn-info[disabled]:hover,
+fieldset[disabled] .btn-info:hover,
+.btn-info.disabled:focus,
+.btn-info[disabled]:focus,
+fieldset[disabled] .btn-info:focus,
+.btn-info.disabled.focus,
+.btn-info[disabled].focus,
+fieldset[disabled] .btn-info.focus,
+.btn-info.disabled:active,
+.btn-info[disabled]:active,
+fieldset[disabled] .btn-info:active,
+.btn-info.disabled.active,
+.btn-info[disabled].active,
+fieldset[disabled] .btn-info.active {
+  background-color: #2aabd2;
+  background-image: none;
+}
+.btn-warning {
+  background-image: -webkit-linear-gradient(top, #f0ad4e 0%, #eb9316 100%);
+  background-image:      -o-linear-gradient(top, #f0ad4e 0%, #eb9316 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f0ad4e), to(#eb9316));
+  background-image:         linear-gradient(to bottom, #f0ad4e 0%, #eb9316 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff0ad4e', endColorstr='#ffeb9316', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+  border-color: #e38d13;
+}
+.btn-warning:hover,
+.btn-warning:focus {
+  background-color: #eb9316;
+  background-position: 0 -15px;
+}
+.btn-warning:active,
+.btn-warning.active {
+  background-color: #eb9316;
+  border-color: #e38d13;
+}
+.btn-warning.disabled,
+.btn-warning[disabled],
+fieldset[disabled] .btn-warning,
+.btn-warning.disabled:hover,
+.btn-warning[disabled]:hover,
+fieldset[disabled] .btn-warning:hover,
+.btn-warning.disabled:focus,
+.btn-warning[disabled]:focus,
+fieldset[disabled] .btn-warning:focus,
+.btn-warning.disabled.focus,
+.btn-warning[disabled].focus,
+fieldset[disabled] .btn-warning.focus,
+.btn-warning.disabled:active,
+.btn-warning[disabled]:active,
+fieldset[disabled] .btn-warning:active,
+.btn-warning.disabled.active,
+.btn-warning[disabled].active,
+fieldset[disabled] .btn-warning.active {
+  background-color: #eb9316;
+  background-image: none;
+}
+.btn-danger {
+  background-image: -webkit-linear-gradient(top, #d9534f 0%, #c12e2a 100%);
+  background-image:      -o-linear-gradient(top, #d9534f 0%, #c12e2a 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#d9534f), to(#c12e2a));
+  background-image:         linear-gradient(to bottom, #d9534f 0%, #c12e2a 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd9534f', endColorstr='#ffc12e2a', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+  border-color: #b92c28;
+}
+.btn-danger:hover,
+.btn-danger:focus {
+  background-color: #c12e2a;
+  background-position: 0 -15px;
+}
+.btn-danger:active,
+.btn-danger.active {
+  background-color: #c12e2a;
+  border-color: #b92c28;
+}
+.btn-danger.disabled,
+.btn-danger[disabled],
+fieldset[disabled] .btn-danger,
+.btn-danger.disabled:hover,
+.btn-danger[disabled]:hover,
+fieldset[disabled] .btn-danger:hover,
+.btn-danger.disabled:focus,
+.btn-danger[disabled]:focus,
+fieldset[disabled] .btn-danger:focus,
+.btn-danger.disabled.focus,
+.btn-danger[disabled].focus,
+fieldset[disabled] .btn-danger.focus,
+.btn-danger.disabled:active,
+.btn-danger[disabled]:active,
+fieldset[disabled] .btn-danger:active,
+.btn-danger.disabled.active,
+.btn-danger[disabled].active,
+fieldset[disabled] .btn-danger.active {
+  background-color: #c12e2a;
+  background-image: none;
+}
+.thumbnail,
+.img-thumbnail {
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .075);
+          box-shadow: 0 1px 2px rgba(0, 0, 0, .075);
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  background-color: #e8e8e8;
+  background-image: -webkit-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
+  background-image:      -o-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#e8e8e8));
+  background-image:         linear-gradient(to bottom, #f5f5f5 0%, #e8e8e8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#ffe8e8e8', GradientType=0);
+  background-repeat: repeat-x;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  background-color: #2e6da4;
+  background-image: -webkit-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
+  background-image:      -o-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#2e6da4));
+  background-image:         linear-gradient(to bottom, #337ab7 0%, #2e6da4 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff2e6da4', GradientType=0);
+  background-repeat: repeat-x;
+}
+.navbar-default {
+  background-image: -webkit-linear-gradient(top, #fff 0%, #f8f8f8 100%);
+  background-image:      -o-linear-gradient(top, #fff 0%, #f8f8f8 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f8f8f8));
+  background-image:         linear-gradient(to bottom, #fff 0%, #f8f8f8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff8f8f8', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 5px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 5px rgba(0, 0, 0, .075);
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .active > a {
+  background-image: -webkit-linear-gradient(top, #dbdbdb 0%, #e2e2e2 100%);
+  background-image:      -o-linear-gradient(top, #dbdbdb 0%, #e2e2e2 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#dbdbdb), to(#e2e2e2));
+  background-image:         linear-gradient(to bottom, #dbdbdb 0%, #e2e2e2 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffdbdbdb', endColorstr='#ffe2e2e2', GradientType=0);
+  background-repeat: repeat-x;
+  -webkit-box-shadow: inset 0 3px 9px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 3px 9px rgba(0, 0, 0, .075);
+}
+.navbar-brand,
+.navbar-nav > li > a {
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
+}
+.navbar-inverse {
+  background-image: -webkit-linear-gradient(top, #3c3c3c 0%, #222 100%);
+  background-image:      -o-linear-gradient(top, #3c3c3c 0%, #222 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#3c3c3c), to(#222));
+  background-image:         linear-gradient(to bottom, #3c3c3c 0%, #222 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3c3c3c', endColorstr='#ff222222', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+  border-radius: 4px;
+}
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .active > a {
+  background-image: -webkit-linear-gradient(top, #080808 0%, #0f0f0f 100%);
+  background-image:      -o-linear-gradient(top, #080808 0%, #0f0f0f 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#080808), to(#0f0f0f));
+  background-image:         linear-gradient(to bottom, #080808 0%, #0f0f0f 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff080808', endColorstr='#ff0f0f0f', GradientType=0);
+  background-repeat: repeat-x;
+  -webkit-box-shadow: inset 0 3px 9px rgba(0, 0, 0, .25);
+          box-shadow: inset 0 3px 9px rgba(0, 0, 0, .25);
+}
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav > li > a {
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, .25);
+}
+.navbar-static-top,
+.navbar-fixed-top,
+.navbar-fixed-bottom {
+  border-radius: 0;
+}
+@media (max-width: 767px) {
+  .navbar .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #fff;
+    background-image: -webkit-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
+    background-image:      -o-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#2e6da4));
+    background-image:         linear-gradient(to bottom, #337ab7 0%, #2e6da4 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff2e6da4', GradientType=0);
+    background-repeat: repeat-x;
+  }
+}
+.alert {
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .2);
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .25), 0 1px 2px rgba(0, 0, 0, .05);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, .25), 0 1px 2px rgba(0, 0, 0, .05);
+}
+.alert-success {
+  background-image: -webkit-linear-gradient(top, #dff0d8 0%, #c8e5bc 100%);
+  background-image:      -o-linear-gradient(top, #dff0d8 0%, #c8e5bc 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#dff0d8), to(#c8e5bc));
+  background-image:         linear-gradient(to bottom, #dff0d8 0%, #c8e5bc 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffdff0d8', endColorstr='#ffc8e5bc', GradientType=0);
+  background-repeat: repeat-x;
+  border-color: #b2dba1;
+}
+.alert-info {
+  background-image: -webkit-linear-gradient(top, #d9edf7 0%, #b9def0 100%);
+  background-image:      -o-linear-gradient(top, #d9edf7 0%, #b9def0 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#d9edf7), to(#b9def0));
+  background-image:         linear-gradient(to bottom, #d9edf7 0%, #b9def0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd9edf7', endColorstr='#ffb9def0', GradientType=0);
+  background-repeat: repeat-x;
+  border-color: #9acfea;
+}
+.alert-warning {
+  background-image: -webkit-linear-gradient(top, #fcf8e3 0%, #f8efc0 100%);
+  background-image:      -o-linear-gradient(top, #fcf8e3 0%, #f8efc0 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fcf8e3), to(#f8efc0));
+  background-image:         linear-gradient(to bottom, #fcf8e3 0%, #f8efc0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffcf8e3', endColorstr='#fff8efc0', GradientType=0);
+  background-repeat: repeat-x;
+  border-color: #f5e79e;
+}
+.alert-danger {
+  background-image: -webkit-linear-gradient(top, #f2dede 0%, #e7c3c3 100%);
+  background-image:      -o-linear-gradient(top, #f2dede 0%, #e7c3c3 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f2dede), to(#e7c3c3));
+  background-image:         linear-gradient(to bottom, #f2dede 0%, #e7c3c3 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff2dede', endColorstr='#ffe7c3c3', GradientType=0);
+  background-repeat: repeat-x;
+  border-color: #dca7a7;
+}
+.progress {
+  background-image: -webkit-linear-gradient(top, #ebebeb 0%, #f5f5f5 100%);
+  background-image:      -o-linear-gradient(top, #ebebeb 0%, #f5f5f5 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ebebeb), to(#f5f5f5));
+  background-image:         linear-gradient(to bottom, #ebebeb 0%, #f5f5f5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffebebeb', endColorstr='#fff5f5f5', GradientType=0);
+  background-repeat: repeat-x;
+}
+.progress-bar {
+  background-image: -webkit-linear-gradient(top, #337ab7 0%, #286090 100%);
+  background-image:      -o-linear-gradient(top, #337ab7 0%, #286090 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#286090));
+  background-image:         linear-gradient(to bottom, #337ab7 0%, #286090 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff286090', GradientType=0);
+  background-repeat: repeat-x;
+}
+.progress-bar-success {
+  background-image: -webkit-linear-gradient(top, #5cb85c 0%, #449d44 100%);
+  background-image:      -o-linear-gradient(top, #5cb85c 0%, #449d44 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#5cb85c), to(#449d44));
+  background-image:         linear-gradient(to bottom, #5cb85c 0%, #449d44 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5cb85c', endColorstr='#ff449d44', GradientType=0);
+  background-repeat: repeat-x;
+}
+.progress-bar-info {
+  background-image: -webkit-linear-gradient(top, #5bc0de 0%, #31b0d5 100%);
+  background-image:      -o-linear-gradient(top, #5bc0de 0%, #31b0d5 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#5bc0de), to(#31b0d5));
+  background-image:         linear-gradient(to bottom, #5bc0de 0%, #31b0d5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff31b0d5', GradientType=0);
+  background-repeat: repeat-x;
+}
+.progress-bar-warning {
+  background-image: -webkit-linear-gradient(top, #f0ad4e 0%, #ec971f 100%);
+  background-image:      -o-linear-gradient(top, #f0ad4e 0%, #ec971f 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f0ad4e), to(#ec971f));
+  background-image:         linear-gradient(to bottom, #f0ad4e 0%, #ec971f 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff0ad4e', endColorstr='#ffec971f', GradientType=0);
+  background-repeat: repeat-x;
+}
+.progress-bar-danger {
+  background-image: -webkit-linear-gradient(top, #d9534f 0%, #c9302c 100%);
+  background-image:      -o-linear-gradient(top, #d9534f 0%, #c9302c 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#d9534f), to(#c9302c));
+  background-image:         linear-gradient(to bottom, #d9534f 0%, #c9302c 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd9534f', endColorstr='#ffc9302c', GradientType=0);
+  background-repeat: repeat-x;
+}
+.progress-bar-striped {
+  background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:         linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+}
+.list-group {
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .075);
+          box-shadow: 0 1px 2px rgba(0, 0, 0, .075);
+}
+.list-group-item.active,
+.list-group-item.active:hover,
+.list-group-item.active:focus {
+  text-shadow: 0 -1px 0 #286090;
+  background-image: -webkit-linear-gradient(top, #337ab7 0%, #2b669a 100%);
+  background-image:      -o-linear-gradient(top, #337ab7 0%, #2b669a 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#2b669a));
+  background-image:         linear-gradient(to bottom, #337ab7 0%, #2b669a 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff2b669a', GradientType=0);
+  background-repeat: repeat-x;
+  border-color: #2b669a;
+}
+.list-group-item.active .badge,
+.list-group-item.active:hover .badge,
+.list-group-item.active:focus .badge {
+  text-shadow: none;
+}
+.panel {
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .05);
+          box-shadow: 0 1px 2px rgba(0, 0, 0, .05);
+}
+.panel-default > .panel-heading {
+  background-image: -webkit-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
+  background-image:      -o-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#e8e8e8));
+  background-image:         linear-gradient(to bottom, #f5f5f5 0%, #e8e8e8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#ffe8e8e8', GradientType=0);
+  background-repeat: repeat-x;
+}
+.panel-primary > .panel-heading {
+  background-image: -webkit-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
+  background-image:      -o-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#2e6da4));
+  background-image:         linear-gradient(to bottom, #337ab7 0%, #2e6da4 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff2e6da4', GradientType=0);
+  background-repeat: repeat-x;
+}
+.panel-success > .panel-heading {
+  background-image: -webkit-linear-gradient(top, #dff0d8 0%, #d0e9c6 100%);
+  background-image:      -o-linear-gradient(top, #dff0d8 0%, #d0e9c6 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#dff0d8), to(#d0e9c6));
+  background-image:         linear-gradient(to bottom, #dff0d8 0%, #d0e9c6 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffdff0d8', endColorstr='#ffd0e9c6', GradientType=0);
+  background-repeat: repeat-x;
+}
+.panel-info > .panel-heading {
+  background-image: -webkit-linear-gradient(top, #d9edf7 0%, #c4e3f3 100%);
+  background-image:      -o-linear-gradient(top, #d9edf7 0%, #c4e3f3 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#d9edf7), to(#c4e3f3));
+  background-image:         linear-gradient(to bottom, #d9edf7 0%, #c4e3f3 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd9edf7', endColorstr='#ffc4e3f3', GradientType=0);
+  background-repeat: repeat-x;
+}
+.panel-warning > .panel-heading {
+  background-image: -webkit-linear-gradient(top, #fcf8e3 0%, #faf2cc 100%);
+  background-image:      -o-linear-gradient(top, #fcf8e3 0%, #faf2cc 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fcf8e3), to(#faf2cc));
+  background-image:         linear-gradient(to bottom, #fcf8e3 0%, #faf2cc 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffcf8e3', endColorstr='#fffaf2cc', GradientType=0);
+  background-repeat: repeat-x;
+}
+.panel-danger > .panel-heading {
+  background-image: -webkit-linear-gradient(top, #f2dede 0%, #ebcccc 100%);
+  background-image:      -o-linear-gradient(top, #f2dede 0%, #ebcccc 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f2dede), to(#ebcccc));
+  background-image:         linear-gradient(to bottom, #f2dede 0%, #ebcccc 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff2dede', endColorstr='#ffebcccc', GradientType=0);
+  background-repeat: repeat-x;
+}
+.well {
+  background-image: -webkit-linear-gradient(top, #e8e8e8 0%, #f5f5f5 100%);
+  background-image:      -o-linear-gradient(top, #e8e8e8 0%, #f5f5f5 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#e8e8e8), to(#f5f5f5));
+  background-image:         linear-gradient(to bottom, #e8e8e8 0%, #f5f5f5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe8e8e8', endColorstr='#fff5f5f5', GradientType=0);
+  background-repeat: repeat-x;
+  border-color: #dcdcdc;
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, .05), 0 1px 0 rgba(255, 255, 255, .1);
+          box-shadow: inset 0 1px 3px rgba(0, 0, 0, .05), 0 1px 0 rgba(255, 255, 255, .1);
+}
+table {
+    box-shadow: 5px 5px 5px lightgray;
+}

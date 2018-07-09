@@ -1,5 +1,10 @@
 import { NegociacaoController } from './controllers/NegociacaoController.js';
 import { Negociacao } from './domain/index.js';
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/css/bootstrap-theme.css';
+import 'bootstrap/js/modal.js';
+
+import '../css/meucss.css';
 
 const controller = new NegociacaoController();
 const negociacao = new Negociacao(new Date(), 1, 200);
@@ -14,5 +19,5 @@ const config = {
     body 
 };
 
-fetch('/negociacoes', config)
+fetch(`${SERVICE_URL}/negociacoes`, config)
     .then(() => console.log('Dado enviado com sucesso'));
